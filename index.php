@@ -331,7 +331,7 @@
     <div class="container">
       <div class="copyright">
         Sponsored by: <div>
-            <img src="images/hngi.png" width="40" height="40"/><a href="internship.zuri.team" target="_blank">internship.zuri.team</a></div>
+            <img src="assets/img/hngi.png" width="40" height="40"/><a href="internship.zuri.team" target="_blank">internship.zuri.team</a></div>
         </div>
       </div>
       <div class="credits">
