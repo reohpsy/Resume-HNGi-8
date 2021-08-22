@@ -84,7 +84,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Hello! I’m Rowland Opeyemi Emmanuel. I am passionate about Back-End Dev. I am a skilled Graphic Designer as well, i am familiar with Photoshop and Illustrator.</p>
+          <p>Hello! I’m Rowland Opeyemi Emmanuel. I am passionate about building and maintaining web applications, assessing the efficiency and speed of current applications, writing high-quality code, troubleshooting and debugging. I am a skilled Graphics Designer as well, i am familiar with Photoshop and Illustrator.</p>
         </div>
 
         <div class="row">
