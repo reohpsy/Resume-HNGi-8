@@ -84,7 +84,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Hello! I’m Rowland Opeyemi Emmanuel. I am passionate about building and maintaining web applications, assessing the efficiency and speed of current applications, writing high-quality code, troubleshooting and debugging. I am a skilled Graphics Designer as well, i am familiar with Photoshop and Illustrator.</p>
+          <p>Hello! I’m Rowland Opeyemi Emmanuel, Mechanical Engineering Graduate aspiring Full Stack Dev as side career. I am passionate about building and maintaining web applications, assessing the efficiency and speed of current applications, writing high-quality code, troubleshooting and debugging (BACK-END dev). I am a skilled Graphics Designer as well, i am familiar with Photoshop and Illustrator. A crypto trader and more...</p>
         </div>
 
         <div class="row">
@@ -92,7 +92,7 @@
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3> Back-End &amp; Graphics Designer.</h3>
+            <h3> Back-End Dev &amp; Graphics Designer.</h3>
             <p class="fst-italic">
              <!-- ======= Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.======= -->
@@ -100,7 +100,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>westnerd.blogspot.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span href="https://www.westnerd.blogspot.com">www.westnerd.blogspot.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 806 479 9880</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Benin City, Nigeria</span></li>
                 </ul>
