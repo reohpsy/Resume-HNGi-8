@@ -330,10 +330,12 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Reohpsy</span></strong>
+        Sponsored by: <div>
+            <img src="images/hngi.png" width="40" height="40"/><a href="internship.zuri.team" target="_blank">internship.zuri.team</a></div>
+        </div>
       </div>
       <div class="credits">
-        Designed by <a href="https://twitter.com/reohpsy">Reohpsy</a>
+        Designed by <a href="https://github.com/reohpsy">Reohpsy</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
