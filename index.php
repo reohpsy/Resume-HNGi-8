@@ -212,17 +212,17 @@
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Mechanical Engineeering Arts (Power &amp; Plant) </h4>
+              <h4>Power &amp; Plant Engineering</h4>
               <h5>2017 - 2019</h5>
               <p><em>Federal Polytechnic Offa, Kwara State, KW</em></p>
-              <p>Majors in Power &amp; Plant Engineering, which is the assembly of equipments that produces mechanical energy utilizing the available energy source and converting it to electrical energy e.g heavy machinery like boilers and turbines</p>
+              <p>Power &amp; Plant Engineering is a branch of Mechanical Engineering, which is the assembly of equipments that produces mechanical energy utilizing the available energy source and converting it to electrical energy e.g heavy machinery like boilers and turbines</p>
             </div>
             <div class="resume-item">
-              <h4>MEchanical Engineering (National Diploma)</h4>
+              <h4>Mechanical Engineering</h4>
               <h5>2011 - 2015</h5>
               <p><em>Federal Polytechnic Offa, Kwara State, KW</em></p>
-             <!-- <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-             --> </div>
+              <p>Mechanical Engineering is the branch of engineering dealing with the design, construction, and use of machines, it combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems.</p>
+             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
