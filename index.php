@@ -228,7 +228,7 @@
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
               <h4>Logistics Cordinator</h4>
-              <h5>2020 - 2021</h5>
+              <h5>2020 - Present</h5>
               <p><em>Multipro Consumer Products Limited, Edo State, BN </em></p>
               <ul>
                 <li>Coordinating transportation providers to ensure prompt and proper movement of shipments</li>
