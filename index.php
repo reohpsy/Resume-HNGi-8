@@ -229,7 +229,7 @@
             <div class="resume-item">
               <h4>Logistics Cordinator</h4>
               <h5>2020 - 2021</h5>
-              <p><em>Benin Sapele Rd, Edo State, BN </em></p>
+              <p><em>Multipro Consumer Products Limited, Edo State, BN </em></p>
               <ul>
                 <li>Coordinating transportation providers to ensure prompt and proper movement of shipments</li>
                 <li>Tracking and fixing shipping errors</li>
@@ -238,9 +238,9 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Acoustic Expert Limited</h4>
+              <h4>IT &amp; Sound Engr. Ass</h4>
               <h5>2016 - 2019</h5>
-              <p><em>Surulere, Lagos State, LA</em></p>
+              <p><em>Acoustic Expert Limited, Lagos State, LA</em></p>
               <ul>
                 <li>Ensured that every acoustic design suit the standard regulated decibel needed for a project</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
