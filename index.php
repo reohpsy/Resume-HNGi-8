@@ -330,8 +330,8 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        Sponsored by: <div>
-            <img src="assets/img/hngi.png" width="40" height="40"/><a href="internship.zuri.team" target="_blank">internship.zuri.team</a></div>
+        Sponsored by:
+            <span><img src="assets/img/hngi.png" width="40" height="40"/><span><a href="internship.zuri.team">internship.zuri.team</a></div>
         </div>
       </div>
       <div class="credits">
