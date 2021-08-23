@@ -227,25 +227,25 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Logistics Cordinator</h4>
+              <h5>2020 - 2021</h5>
+              <p><em>Benin Sapele Rd, Edo State, BN </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Coordinating transportation providers to ensure prompt and proper movement of shipments</li>
+                <li>Tracking and fixing shipping errors</li>
+                <li>Ensuring that the quality of all services provided meets the required standards</li>
+                <li>Tracking of trucks and vans when there is delay in return/delivery</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Acoustic Expert Limited</h4>
+              <h5>2016 - 2019</h5>
+              <p><em>Surulere, Lagos State, LA</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Ensured that every acoustic design suit the standard regulated decibel needed for a project</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Recommended and consulted with clients on the most appropriate acoustic design</li>
+                <li>Created 4+ simulation design presentations and proposals a month for clients</li>
               </ul>
             </div>
           </div>
