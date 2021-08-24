@@ -109,7 +109,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>HND</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>rowlandopeyemi@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span><a href="https://anytask.com/reohpsy/businesslogodesign">Anytask</a></span></li>
                 </ul>
               </div>
             </div>
