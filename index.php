@@ -100,7 +100,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://westnerd.blogspot.com">www.westnerd.blogspot.com</a><span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://westnerd.blogspot.com">Westnerd</a><span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 806 479 9880</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Benin City, Nigeria</span></li>
                 </ul>
